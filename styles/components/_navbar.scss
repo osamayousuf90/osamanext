@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    padding: 10px 20px;
+    background-color: black;
+    justify-content: space-between;
+    // align-items: center;
+
+    div {
+        display: flex;
+    }
+
+    p {
+        color: white;
+        margin: 0 10px;
+        cursor: pointer;
+    }
+}
